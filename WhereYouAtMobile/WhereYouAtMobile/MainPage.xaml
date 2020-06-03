@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:WhereYouAtMobile"
+             x:Class="WhereYouAtMobile.MainPage">
+
+    <ScrollView>
+        <StackLayout Margin="40">
+            <Button Text="Login" x:Name="LoginButton" />
+            <Label x:Name="LoginResultLabel" LineBreakMode="WordWrap" />
+
+            <!--<StackLayout Orientation="Horizontal">
+                <Label Text="Include Heading" HorizontalOptions="Center"/>
+                <Switch x:Name="IncludeHeading" IsToggled="false" HorizontalOptions="Center"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <StackLayout>
+                    <Label BindingContext="{x:Reference Timeout}" Text="{Binding Value,
+                          StringFormat='Timeout = {0:F0} Seconds'}"/>
+                </StackLayout>
+                <Stepper x:Name="Timeout" Maximum="60"  Minimum="2" Increment="1" Value="10"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <StackLayout>
+                    <Label BindingContext="{x:Reference DesiredAccuracy}" Text="{Binding Value,
+                          StringFormat='Desired Accuracy = {0:F0} Meters'}"/>
+                </StackLayout>
+                <Stepper x:Name="DesiredAccuracy" Maximum="1500"  Minimum="10" Increment="10" Value="500"/>
+            </StackLayout>
+            <Button x:Name="ButtonGetGPS" Text="Get Current Location" Clicked="ButtonGetGPS_Clicked"/>
+            <Label x:Name="labelGPS"/>-->
+            <Button x:Name="StartTrackingButton" Text="Start Tracking" Clicked="StartTrackingButton_Clicked" IsEnabled="False"/>
+            <Button x:Name="StopTrackingButton" Text="Stop Tracking" Clicked="StopTrackingButton_Clicked" IsEnabled="False"/>
+            <Label x:Name="labelTracking"/>
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>

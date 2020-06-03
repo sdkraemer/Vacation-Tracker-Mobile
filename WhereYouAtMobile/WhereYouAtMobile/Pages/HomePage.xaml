@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WhereYouAtMobile.Pages.HomePage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="40">
+                <Button x:Name="SettingsPageButton" Text="Settings Page"/>
+                <Button x:Name="MomentPageButton" Text="Moment Page" IsEnabled="false"/>
+                <Button Text="Login" x:Name="LoginButton" />
+                <Label x:Name="LoginResultLabel" LineBreakMode="WordWrap" />
+                <Label x:Name="AccessTokenExpirationLabel" LineBreakMode="WordWrap" />
+
+                <Button x:Name="StartTrackingButton" Text="Start Tracking" Clicked="StartTrackingButton_Clicked" IsEnabled="False"/>
+                <Button x:Name="StopTrackingButton" Text="Stop Tracking" Clicked="StopTrackingButton_Clicked" IsEnabled="False"/>
+                <Label x:Name="labelTracking"/>
+                <ListView x:Name="LocationsRetrievedListView"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>
+    <Jar>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\2\jl\formsviewgroup.jar</Jar>
+    <Jar>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\24\jl\arch-core-common.jar</Jar>
+    <Jar>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\25\jl\arch-lifecycle-common.jar</Jar>
+    <Jar>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\26\jl\bin\classes.jar</Jar>
+    <Jar>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\27\jl\bin\classes.jar</Jar>
+    <Jar>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\28\jl\support-annotations.jar</Jar>
+    <Jar>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\29\jl\bin\classes.jar</Jar>
+    <Jar>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\30\jl\bin\classes.jar</Jar>
+    <Jar>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\31\jl\bin\classes.jar</Jar>
+    <Jar>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\32\jl\bin\classes.jar</Jar>
+    <Jar>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\33\jl\bin\classes.jar</Jar>
+    <Jar>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\34\jl\bin\classes.jar</Jar>
+    <Jar>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\35\jl\bin\classes.jar</Jar>
+    <Jar>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\36\jl\bin\classes.jar</Jar>
+    <Jar>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\37\jl\bin\classes.jar</Jar>
+    <Jar>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\38\jl\bin\classes.jar</Jar>
+    <Jar>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\39\jl\bin\classes.jar</Jar>
+    <Jar>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\40\jl\bin\classes.jar</Jar>
+    <Jar>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\41\jl\bin\classes.jar</Jar>
+    <Jar>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\42\jl\bin\classes.jar</Jar>
+  </Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\1\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\29\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\32\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\34\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\35\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\36\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\37\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\38\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\39\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\41\jl\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\lp\1\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\lp\36\jl\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\1.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\29.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\32.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\34.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\35.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\36.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\37.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\38.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\39.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile.Android\obj\Debug\lp\41.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

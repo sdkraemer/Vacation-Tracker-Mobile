@@ -1,0 +1,9 @@
+C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile\bin\Debug\netstandard2.0\WhereYouAtMobile.deps.json
+C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile\bin\Debug\netstandard2.0\WhereYouAtMobile.dll
+C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile\bin\Debug\netstandard2.0\WhereYouAtMobile.pdb
+C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile\obj\Debug\netstandard2.0\WhereYouAtMobile.csprojAssemblyReference.cache
+C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile\obj\Debug\netstandard2.0\WhereYouAtMobile.csproj.CoreCompileInputs.cache
+C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile\obj\Debug\netstandard2.0\WhereYouAtMobile.AssemblyInfoInputs.cache
+C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile\obj\Debug\netstandard2.0\WhereYouAtMobile.AssemblyInfo.cs
+C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile\obj\Debug\netstandard2.0\WhereYouAtMobile.dll
+C:\projects\whereuat\WhereYouAtMobile\WhereYouAtMobile\WhereYouAtMobile\obj\Debug\netstandard2.0\WhereYouAtMobile.pdb
