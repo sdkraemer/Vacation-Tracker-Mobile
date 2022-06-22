@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="Auth0.OidcClient.Core" Version="2.0.0-rc1" />
-    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="Plugin.Permissions" Version="3.0.0.12" />
     <PackageReference Include="Polly" Version="6.0.1" />
     <PackageReference Include="Xam.Plugin.Connectivity" Version="3.1.1" />
